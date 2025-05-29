@@ -5,7 +5,7 @@
 
 Ce projet implémente un modèle **SARIMA (Seasonal AutoRegressive Integrated Moving Average)** pour prévoir la production mensuelle de lait en utilisant des données historiques entre **1962 et 1975**.
 
-## 📚 Sommaire
+##  Sommaire
 
 - [Objectif](#objectif)
 - [Données Utilisées](#données-utilisées)
@@ -64,7 +64,7 @@ Le jeu de données contient la **production mensuelle de lait** entre **janvier 
 
 ---
 
-## ⚙ Installation & Exécution
+##  Installation & Exécution
 
 ### Prérequis
 
